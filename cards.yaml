@@ -1,0 +1,126 @@
+# Template
+# - word: もとより
+#   word_with_reading: null
+#   definition: |
+#     最初
+#     ❶はじめから。
+#     ❷言うまでもなく。
+#   example_sentence: 最初からやり直そう。
+#   translation_sentence: null
+#   sentence_with_reading: null
+#   kanji: false
+#   image: null
+
+- word: 注意
+  word_with_reading: 注意[ちゅうい]
+  definition: |
+    ❶いことが起きたり、見落としてしまったりしないように気をつけること。用心すること。
+    ❷まちがいなどを、さとすこと。
+  example_sentence: 直継。右前方、注意っ！
+
+- word: 鈍い
+  word_with_reading: 鈍い[にぶい]
+  definition: |
+    ❶はものなどがよく切れない。
+    ❷動きやはたらきがおそい。
+    ❸ぼんやりして、はっきりしない。
+  example_sentence: シロエの言葉に直継は叫び返すと、鈍い銀色の盾を掲げて〈人喰い草〉をたたき落とす。
+
+- word: 蔦
+  word_with_reading: 蔦[つた]
+  definition: ブドウのなかまの、つる状の植物。葉が秋に美しく紅葉する。
+  example_sentence: 壁に蔦がからまっている。
+  image: 日本語_自分_tsuta.jpg
+
+- word: 護衛
+  word_with_reading: 護衛[ごえい]
+  definition: つきそって守ること。また、守る人。
+  example_sentence: 警察官が護衛する。
+
+- word: 突出
+  word_with_reading: 突出[とっしゅつ]
+  definition: |
+    ❶ある部分だけが高く、または長くつき出ること。
+    ❷他とくらべて目立つこと。
+    ❸急につきやぶって飛び出ること。
+  example_sentence: 左から突出してきた緑色のうねる蔦を素早い一撃で牽制したアカツキはそのまま身体を低く沈めながら、シロエを護衛する位置に入っている。
+
+- word: 廃墟
+  word_with_reading: 廃墟[はいきょ]
+  definition: あれはてたあと。
+  example_sentence: 戦火にやかれ、町がはいきょとなる。
+
+- word: 富む
+  word_with_reading: 富む[とむ]
+  definition: |
+    ❶お金や品物が多くなる。
+    ❷じゅうぶんある。ゆたかである。
+  example_sentence: カナダは木材に富む。
+
+- word: 含む
+  word_with_reading: 含む[ふくむ]
+  definition: |
+    ❶中に入っている。
+    ❷口の中に入れておく。
+    ❸心のうちにおさめておく。
+    ❹ようすをおびる。
+  example_sentence: 小規模なゾーンではあるが、古代の遊戯施設を含むために、周辺の廃墟とは違い、地形が変化に富んでいて戦闘が難しい。
+
+- word: 青白い
+  definition: |
+    ❶白さに少し青色が感じられる。
+    ❷顔色が悪い。
+  example_sentence: 直継のツッコミに答えず、シロエは青白い魔法の矢を作り出すと〈棘茨イタチ〉に投射した。
+
+- word: 基本的
+  word_with_reading: 基本的[きほんてき]
+  definition: 物ごとのもとになるようす。
+  example_sentence: 〈マインド・ボルト〉は〈付与術師〉のもつ基本的な攻撃魔法で、単体の敵を打ち抜く精神力の矢だ。
+
+- word: 悲鳴
+  word_with_reading: 悲鳴[ひめい]
+  definition: |
+    ❶おどろいたときやいたいときに出る、さけび声。
+    ❷こまったときに出る声。泣き言。弱音。
+  example_sentence: 悲鳴が聞こえた。
+
+- word: 悲鳴
+  word_with_reading: 悲鳴[ひめい]
+  definition: |
+    ❶おどろいたときやいたいときに出る、さけび声。
+    ❷こまったときに出る声。泣き言。弱音。
+  example_sentence: 悲鳴が聞こえた。
+
+- word: 跳ねる
+  word_with_reading: 跳ねる[ほねる]
+  definition: |
+    ❶とび上がる。
+    ❷とびちる。
+    ❸はじける。
+    ❹その日の興行が終わる。
+  example_sentence: ウマがはねる。
+
+- word: 脳裏
+  word_with_reading: 脳裏[のうり]
+  definition: 頭の中。心の中。
+  example_sentence: よい考えが脳裏にうかぶ。
+
+- word: 浮かぶ
+  word_with_reading: 脳裏[のうり]
+  definition: |
+    ❶水の上にとどまる。
+    ❷空中にある。
+    ❸表面にあらわれる。
+    ❹思いつく。
+  example_sentence: 気球が空に浮かんでいた。
+
+- word: 鋭い
+  word_with_reading: 鋭い[するどい]
+  definition: |
+    ❶先がとがっている
+    ❷刃物の切れ味がよい。
+    ❸ちえや感じ方などがすぐれている。
+    ❹いきおいがはげしい。
+    ❺きつくておそろしい感じがする。
+    ❻声や音・光などがつきささるように強い。
+  example_sentence: 鋭い悲鳴を上げて跳ねる１メートルほどの齧歯類を見ながらも、シロエは脳裏に浮かぶアイコンを観相する。

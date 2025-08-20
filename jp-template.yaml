@@ -1,0 +1,12 @@
+- name: index
+  id: Index
+  field_type: Index
+
+- name: word
+  id: Word
+  field_type: String
+
+  # How to include something that shows it depends on the word
+- name: word_with_reading
+  id: "Word with Reading"
+  field_type: Autoruby

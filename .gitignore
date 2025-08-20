@@ -1,0 +1,6 @@
+/target
+.idea/
+*.db
+.DS_Store
+ankikaji
+*.csv
