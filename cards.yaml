@@ -11,6 +11,131 @@
 #   kanji: false
 #   image: null
 
+- word: 減る
+  word_with_reading: 減[へ] る
+  definition: to decrease
+  example_sentence: この前，小学校で仕事したときに給食を食べた！なにか給食の量が減った？私が大きくなっただけ？？
+  translation_sentence: The other day, I worked at an elementary school and ate school lunch! Did the portion shrink, or did I just grow up??
+
+- word: 相性
+  word_with_reading: 相[あい] 性[しょう]
+  definition: compatibility
+  example_sentence: 私と相性がいい！
+  translation_sentence: We have good compatibility
+
+- word: 掲げる
+  word_with_reading: 掲[かか] げる
+  definition: 高いところに置く
+  example_sentence: シロエの言葉に直継は叫び返すと、鈍い銀色の盾を掲げて、＜人喰い草＞を叩き落とす
+
+- word: もとより
+  definition: |
+    最初
+    ❶はじめから。
+    ❷言うまでもなく。
+  example_sentence: 最初からやり直そう。
+
+- word: 切ない
+  word_with_reading: 切[せつ] ない
+  definition: |
+    painful
+    miserable
+  example_sentence: 転校する親友をせつない思いで駅まで送った。
+
+- word: 睡魔
+  word_with_reading: 睡魔[すいま]
+  definition: sleepiness; drowsiness
+  example_sentence: 睡魔が襲う
+
+- word: 職場
+  word_with_reading: 職場[しょくば]
+  definition: 仕事をする場所。つとめ先
+  example_sentence: 職場着いたので！ありがとうね
+
+- word: 時給
+  word_with_reading: 時給[じきゅう]
+  definition: １時間あたりの賃金。時間給。
+  example_sentence: 時給2500円、実際はどうなったんだ？
+
+- word: 砂嵐
+  word_with_reading: 砂嵐[すなあらし]
+  definition: sandstorm; noise (video); snow
+  example_sentence: 今日画面が砂嵐になった
+
+- word: 解散
+  word_with_reading: 解散[かいさん]
+  definition: |
+    ❶集まっていたものがちりぢりにわかれること。
+    ❷組織が活動をやめること。
+    ❸議会で、議員全体に対して任期中に議員としての身分をなくさせること。
+  example_sentence: もう解散したの？
+
+- word: 目的地
+  word_with_reading: 目的地[もくてきち]
+  definition: place of destination
+  example_sentence: 目的地そろそろ着くからまた落ち着いたらゆっくりLINEするねー
+
+- word: 生成
+  word_with_reading: 生成[せいせい]
+  definition: creation; generation; formation; derivation
+  example_sentence: 生成する
+
+- word: 寝坊
+  word_with_reading: 寝坊[ねぼう]
+  definition: 朝おそくまでねること。また、そのくせのついた人。ねぼすけ。
+  example_sentence: 寝坊した！！！
+
+- word: 寿命
+  word_with_reading: 寿命[じゅみょう]
+  definition: |
+    ❶命の長さ。
+    ❷器具などの、使用できる期限。
+  example_sentence: この電池はもう寿命がきた。
+
+- word: 二度寝
+  word_with_reading: 二度寝[にどね]
+  definition: 朝、一度目をさまして、また眠ること。
+  example_sentence: 二度寝しちゃった笑
+
+- word: 一旦
+  word_with_reading: 一旦[いったん]
+  definition: |
+    ❶一度。
+    ❷しばらく。一時。
+  example_sentence: ごめん忘れ物した…一旦家に戻るから遅くなる
+
+- word: 違和感
+  word_with_reading: 違和感[いわかん]
+  definition: |
+    uncomfortable feeling; feeling out of place; sense of discomfort
+    physical unease
+  example_sentence: これは日本人の私にとっては当たり前のこと、違和感が分からなかった
+
+- word: 依存
+  word_with_reading: 依存[いぞん]
+  definition: ほかのものにたよってなりたっていくこと。
+  example_sentence: 依存しない漢検
+
+- word: 盗撮
+  word_with_reading: 盗撮[とうさつ]
+  definition: sneak photography; non-consensual photography; peeping photos
+  example_sentence: ふふっ、盗撮しましたわ
+
+- word: 充電
+  word_with_reading: 充電[じゅうでん]
+  definition: 蓄電池や蓄電器に電気をたくわえること。
+  example_sentence: 充電ゼロのままスマホ家に置いてきて家出ちゃったりして、充電やっと今戻った笑
+
+- word: 血管
+  word_with_reading: 血管[けっかん]
+  definition: 人や動物の心臓から体中に血液を通すくだ。動脈・静脈・毛細血管がある。
+  example_sentence: 血管浮き出たかな？笑
+
+- word: 迫力
+  word_with_reading: 迫力[はくりょく]
+  definition: 人の心に強くせまる力。
+  example_sentence: すごい迫力だったよ！
+
 - word: 注意
   word_with_reading: 注意[ちゅうい]
   definition: |
@@ -19,7 +144,7 @@
   example_sentence: 直継。右前方、注意っ！
 
 - word: 鈍い
-  word_with_reading: 鈍い[にぶい]
+  word_with_reading: 鈍[にぶ] い
   definition: |
     ❶はものなどがよく切れない。
     ❷動きやはたらきがおそい。
@@ -51,14 +176,14 @@
   example_sentence: 戦火にやかれ、町がはいきょとなる。
 
 - word: 富む
-  word_with_reading: 富む[とむ]
+  word_with_reading: 富[と] む
   definition: |
     ❶お金や品物が多くなる。
     ❷じゅうぶんある。ゆたかである。
   example_sentence: カナダは木材に富む。
 
 - word: 含む
-  word_with_reading: 含む[ふくむ]
+  word_with_reading: 含[ふく] む
   definition: |
     ❶中に入っている。
     ❷口の中に入れておく。
@@ -67,6 +192,7 @@
   example_sentence: 小規模なゾーンではあるが、古代の遊戯施設を含むために、周辺の廃墟とは違い、地形が変化に富んでいて戦闘が難しい。
 
 - word: 青白い
+  word_with_reading: 注意[ちゅうい]
   definition: |
     ❶白さに少し青色が感じられる。
     ❷顔色が悪い。
@@ -74,7 +200,8 @@
 
 - word: 基本的
   word_with_reading: 基本的[きほんてき]
-  definition: 物ごとのもとになるようす。
+  definition: |
+    物ごとのもとになるようす。
   example_sentence: 〈マインド・ボルト〉は〈付与術師〉のもつ基本的な攻撃魔法で、単体の敵を打ち抜く精神力の矢だ。
 
 - word: 悲鳴
@@ -84,15 +211,8 @@
     ❷こまったときに出る声。泣き言。弱音。
   example_sentence: 悲鳴が聞こえた。
 
-- word: 悲鳴
-  word_with_reading: 悲鳴[ひめい]
-  definition: |
-    ❶おどろいたときやいたいときに出る、さけび声。
-    ❷こまったときに出る声。泣き言。弱音。
-  example_sentence: 悲鳴が聞こえた。
-
 - word: 跳ねる
-  word_with_reading: 跳ねる[ほねる]
+  word_with_reading: 跳[ほ] ねる
   definition: |
     ❶とび上がる。
     ❷とびちる。
@@ -106,7 +226,7 @@
   example_sentence: よい考えが脳裏にうかぶ。
 
 - word: 浮かぶ
-  word_with_reading: 脳裏[のうり]
+  word_with_reading: 浮[う] かぶ
   definition: |
     ❶水の上にとどまる。
     ❷空中にある。
@@ -115,7 +235,7 @@
   example_sentence: 気球が空に浮かんでいた。
 
 - word: 鋭い
-  word_with_reading: 鋭い[するどい]
+  word_with_reading: 鋭[するど] い
   definition: |
     ❶先がとがっている
     ❷刃物の切れ味がよい。

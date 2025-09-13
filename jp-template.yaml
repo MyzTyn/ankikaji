@@ -1,12 +1,57 @@
-- name: index
-  id: Index
-  field_type: Index
+name: AnkiDeck
+fields:
+  - name: index
+    field_type: Integer
+    metadata:
+      Primary Key: true
+      Auto Increment: true
+      Not Null: true
 
-- name: word
-  id: Word
-  field_type: String
+  - name: word
+    field_type: String
+    metadata:
+      Not Null: true
+      Unique: true
+      Key: true
 
-  # How to include something that shows it depends on the word
-- name: word_with_reading
-  id: "Word with Reading"
-  field_type: Autoruby
+  - name: word_with_reading
+    field_type: String
+    metadata:
+      Autoruby: word
+
+  - name: definition
+    field_type: Text
+    metadata: {}
+
+  - name: example_sentence
+    field_type: Text
+    metadata: {}
+
+  - name: sentence_with_reading
+    field_type: Text
+    metadata:
+      Autoruby: example_sentence
+
+  - name: translation_sentence
+    field_type: Text
+    metadata: {}
+
+  - name: kanji
+    field_type: Boolean
+    metadata:
+      True If Exists: word_with_reading
+
+  - name: word_audio
+    field_type: String
+    metadata:
+      Audio: true
+
+  - name: sentence_audio
+    field_type: String
+    metadata:
+      Audio: true
+
+  - name: image
+    field_type: String
+    metadata:
+      Image: true
